@@ -210,10 +210,123 @@ height: 910px;
     left: 92rem;
 }
 
+
+.pricing{
+    text-align: center;
+
+}
+
 .title-pricing{
     margin-top: 6rem;
     color: rgb(0, 0, 0);
    font-size: 3rem;
    text-align: center;
+
 }
+
+.star-up{
+    margin-top: 9rem;
+  display: flex;
+    justify-content: space-evenly;
+
+}
+
+ .start-up1 > h2  {
+  font-size: 2rem;
+ 
+  
+}
+.start-up1 > p  {
+    font-size: 25px;
+   margin-top: 25px;
+    
+  }
+
+  .start-up1 > h5 {
+    margin-top: 4rem;
+  
+
+  }
+  .start-up1 > h5 > big{
+    font-size: 7rem;
+  }
+
+.premium{
+    background-color: #02253c;
+    width: 20%;
+  height: 60rem;
+    border-radius: 10px;
+}
+
+ .premium > h2  {
+  font-size: 2rem;
+ color:  rgb(255, 255, 255);;
+  
+}
+.premium > p  {
+    font-size: 25px;
+   margin-top: 25px;
+    color:  rgb(255, 255, 255);;
+  }
+
+  .premium > h5 {
+    margin-top: 4rem;
+  color:  rgb(255, 255, 255);;
+
+  }
+
+  
+  .premium > h5 > big{
+    font-size: 7rem;
+    color:  rgb(255, 255, 255);;
+  }
+  
+  .profesional > h2  {
+    font-size: 2rem;
+
+   
+    
+  }
+  .profesional > p  {
+      font-size: 25px;
+     margin-top: 25px;
+  
+      
+    }
+  
+    .profesional > h5 {
+      margin-top: 4rem;
+    
+    }
+  
+    
+    .profesional > h5 > big{
+      font-size: 7rem;
+    }
+
+    .btn-pricing{
+        background-color: transparent;
+        color: rgb(0, 0, 0);
+        padding: 18px 30px;
+        border: solid #000;
+    border-radius: 50px;
+       cursor: pointer;
+       font-size: 22px;
+       font-weight: bold;
+       margin-top: 65px;
+    }
+    .btn-premium{
+        background-color: #01f7a8;
+        color: rgb(0, 0, 0);
+        padding: 18px 30px;
+        border: solid;
+    border-radius: 50px;
+       cursor: pointer;
+       font-size: 22px;
+       font-weight: bold;
+       margin-top: 65px;
+    }
+
+
+
 
