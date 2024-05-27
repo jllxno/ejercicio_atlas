@@ -457,12 +457,8 @@ footer > p {
 }
 
 footer img {
-  width: 60px;
-  height: 60px;
-  margin: 3px;
+  width: 4rem;
+  height: 6rem;
+  padding-top: 2rem;
 
-}
-
-.imgs-footer {
-  margin:20px
 }
